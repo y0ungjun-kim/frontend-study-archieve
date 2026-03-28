@@ -11,7 +11,3 @@ meta 태그
 5초 뒤 구글로 이동 
 
  
-view point
-모든 기기의 너비에 맞춰서 웹사이트를 보기 좋게 사용할 때 사용 
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
